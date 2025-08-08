@@ -56,7 +56,7 @@ Kajamoideen J & Jamila K
             </div>
             
             <h2 className="text-4xl md:text-6xl font-bold bg-gradient-to-r from-purple-700 via-pink-700 to-rose-700 bg-clip-text text-transparent mb-3 elegant-font">
-              Fowziya Begam
+              Faridh Khan
             </h2>
             <div className="flex items-center justify-center my-4">
               <div className="w-20 h-1 bg-gradient-to-r from-transparent via-pink-500 to-transparent rounded-full"></div>
@@ -64,7 +64,7 @@ Kajamoideen J & Jamila K
               <div className="w-20 h-1 bg-gradient-to-r from-transparent via-pink-500 to-transparent rounded-full"></div>
             </div>
             <h2 className="text-4xl md:text-6xl font-bold bg-gradient-to-r from-teal-700 via-emerald-700 to-green-700 bg-clip-text text-transparent elegant-font">
-              Faridh Khan
+             Fowziya Begam
             </h2>
           </div>
 
